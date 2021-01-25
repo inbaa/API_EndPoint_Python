@@ -1,5 +1,5 @@
 # API EndPoint Python and Firebase
-* Import json filein firebase and copy paste Firebase configuration from Project Setting in python file.
+* Import json file in firebase and copy paste Firebase configuration from Project Setting in python file.
 * Task is to get the unit status by the key-value "unit_status" and respond with the following JSON file parameter
 * {
 * "error": false,
