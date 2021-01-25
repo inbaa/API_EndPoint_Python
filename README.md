@@ -11,13 +11,5 @@
 *         "Customer Snags Attended & Handed over to Supervisor",
 *         "Handed over to Customer"
 *     ],
-*     "data": [
-*         0,
-*         0,
-*         1,
-*         0,
-*         0,
-*         0,
-*         0
-*     ]
+*     "data": [ 0,0,1,0,0,0,0 ]
 * }
