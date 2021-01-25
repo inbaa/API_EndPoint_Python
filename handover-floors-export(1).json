@@ -1,0 +1,829 @@
+{
+  "Demo" : {
+    "Tower A" : [ null, {
+      "floor_name" : "01",
+      "units" : [ null, {
+        "label" : "A101",
+        "room_name" : "living_dining,kitchen,utility,br1,c_toilet,wb_area,balcony,mbr,mbr_toilet,br2",
+        "unit_name" : "A-101",
+        "unit_status" : "6",
+        "updated_timestamp" : "1593673218508"
+      }, {
+        "label" : "A102",
+        "room_name" : "living_dining,kitchen,utility,br1,c_toilet,wb_area,balcony,mbr,mbr_toilet,br2",
+        "unit_name" : "A-102",
+        "unit_status" : "6",
+        "updated_timestamp" : "1580819220185"
+      }, {
+        "label" : "A103",
+        "room_name" : "living_dining,kitchen,utility,br1,c_toilet,wb_area,balcony,mbr,mbr_toilet,br2",
+        "unit_name" : "A-103",
+        "unit_status" : "6",
+        "updated_timestamp" : "1580990610748"
+      }, {
+        "label" : "A104",
+        "room_name" : "living_dining,kitchen,utility,br1,c_toilet,wb_area,balcony,mbr,mbr_toilet,br2",
+        "unit_name" : "A-104",
+        "unit_status" : "1",
+        "updated_timestamp" : "1597071936748"
+      }, {
+        "label" : "A105",
+        "room_name" : "living_dining,kitchen,utility,br1,c_toilet,wb_area,balcony,mbr,mbr_toilet,br2",
+        "unit_name" : "A-105",
+        "unit_status" : "6",
+        "updated_timestamp" : "1593610163356"
+      }, {
+        "label" : "A106",
+        "room_name" : "living_dining,kitchen,utility,br1,c_toilet,wb_area,balcony,mbr,mbr_toilet,br2",
+        "unit_name" : "A-106",
+        "unit_status" : "1",
+        "updated_timestamp" : "1582616077260"
+      } ]
+    }, {
+      "floor_name" : "02",
+      "units" : [ null, {
+        "label" : "A201",
+        "room_name" : "living_dining,kitchen,utility,br1,c_toilet,wb_area,balcony,mbr,mbr_toilet,br2",
+        "unit_name" : "A-201",
+        "unit_status" : "5",
+        "updated_timestamp" : "1592904834061"
+      }, {
+        "label" : "A202",
+        "room_name" : "living_dining,kitchen,utility,br1,c_toilet,wb_area,balcony,mbr,mbr_toilet,br2",
+        "unit_name" : "A-202",
+        "unit_status" : "1",
+        "updated_timestamp" : "1590081105427"
+      }, {
+        "label" : "A203",
+        "room_name" : "living_dining,kitchen,utility,br1,c_toilet,wb_area,balcony,mbr,mbr_toilet,br2",
+        "unit_name" : "A-203",
+        "unit_status" : "1",
+        "updated_timestamp" : "1590681120172"
+      }, {
+        "label" : "A204",
+        "room_name" : "living_dining,kitchen,utility,br1,c_toilet,wb_area,balcony,mbr,mbr_toilet,br2",
+        "unit_name" : "A-204",
+        "unit_status" : "1",
+        "updated_timestamp" : "1592757884809"
+      }, {
+        "label" : "A205",
+        "room_name" : "living_dining,kitchen,utility,br1,c_toilet,wb_area,balcony,mbr,mbr_toilet,br2",
+        "unit_name" : "A-205",
+        "unit_status" : "1",
+        "updated_timestamp" : "1592904906268"
+      }, {
+        "label" : "A206",
+        "room_name" : "living_dining,kitchen,utility,br1,c_toilet,wb_area,balcony,mbr,mbr_toilet,br2",
+        "unit_name" : "A-206",
+        "unit_status" : "1",
+        "updated_timestamp" : "1592904966068"
+      }, {
+        "label" : "A207",
+        "room_name" : "living_dining,kitchen,utility,br1,c_toilet,wb_area,balcony,mbr,mbr_toilet,br2",
+        "unit_name" : "A-207",
+        "unit_status" : "1",
+        "updated_timestamp" : "1592905164379"
+      }, {
+        "label" : "A208",
+        "room_name" : "living_dining,kitchen,utility,br1,c_toilet,wb_area,balcony,mbr,mbr_toilet,br2",
+        "unit_name" : "A-208",
+        "unit_status" : "0"
+      } ]
+    }, {
+      "floor_name" : "03",
+      "units" : [ null, {
+        "label" : "A301",
+        "room_name" : "living_dining,kitchen,utility,br1,c_toilet,wb_area,balcony,mbr,mbr_toilet,br2",
+        "unit_name" : "A-301",
+        "unit_status" : "3",
+        "updated_timestamp" : "1592910158087"
+      }, {
+        "label" : "A302",
+        "room_name" : "living_dining,kitchen,utility,br1,c_toilet,wb_area,balcony,mbr,mbr_toilet,br2",
+        "unit_name" : "A-303",
+        "unit_status" : "0"
+      }, {
+        "label" : "A303",
+        "room_name" : "living_dining,kitchen,utility,br1,c_toilet,wb_area,balcony,mbr,mbr_toilet,br2",
+        "unit_name" : "A-303",
+        "unit_status" : "0"
+      }, {
+        "label" : "A304",
+        "room_name" : "living_dining,kitchen,utility,br1,c_toilet,wb_area,balcony,mbr,mbr_toilet,br2",
+        "unit_name" : "A-304",
+        "unit_status" : "3",
+        "updated_timestamp" : "1594639990012"
+      }, {
+        "label" : "A305",
+        "room_name" : "living_dining,kitchen,utility,br1,c_toilet,wb_area,balcony,mbr,mbr_toilet,br2",
+        "unit_name" : "A-305",
+        "unit_status" : "0"
+      }, {
+        "label" : "A306",
+        "room_name" : "living_dining,kitchen,utility,br1,c_toilet,wb_area,balcony,mbr,mbr_toilet,br2",
+        "unit_name" : "A-306",
+        "unit_status" : "0"
+      }, {
+        "label" : "A307",
+        "room_name" : "living_dining,kitchen,utility,br1,c_toilet,wb_area,balcony,mbr,mbr_toilet,br2",
+        "unit_name" : "A-307",
+        "unit_status" : "0"
+      }, {
+        "label" : "A308",
+        "room_name" : "living_dining,kitchen,utility,br1,c_toilet,wb_area,balcony,mbr,mbr_toilet,br2",
+        "unit_name" : "A-308",
+        "unit_status" : "0"
+      } ]
+    }, {
+      "floor_name" : "04",
+      "units" : [ null, {
+        "label" : "A401",
+        "room_name" : "living_dining,kitchen,utility,br1,c_toilet,wb_area,balcony,mbr,mbr_toilet,br2",
+        "unit_name" : "A-401",
+        "unit_status" : "0"
+      }, {
+        "label" : "A402",
+        "room_name" : "living_dining,kitchen,utility,br1,c_toilet,wb_area,balcony,mbr,mbr_toilet,br2",
+        "unit_name" : "A-402",
+        "unit_status" : "0"
+      }, {
+        "label" : "A403",
+        "room_name" : "living_dining,kitchen,utility,br1,c_toilet,wb_area,balcony,mbr,mbr_toilet,br2",
+        "unit_name" : "A-403",
+        "unit_status" : "0"
+      }, {
+        "label" : "A404",
+        "room_name" : "living_dining,kitchen,utility,br1,c_toilet,wb_area,balcony,mbr,mbr_toilet,br2",
+        "unit_name" : "A-404",
+        "unit_status" : "0"
+      }, {
+        "label" : "A405",
+        "room_name" : "living_dining,kitchen,utility,br1,c_toilet,wb_area,balcony,mbr,mbr_toilet,br2",
+        "unit_name" : "A-405",
+        "unit_status" : "0"
+      }, {
+        "label" : "A406",
+        "room_name" : "living_dining,kitchen,utility,br1,c_toilet,wb_area,balcony,mbr,mbr_toilet,br2",
+        "unit_name" : "A-406",
+        "unit_status" : "0"
+      }, {
+        "label" : "A407",
+        "room_name" : "living_dining,kitchen,utility,br1,c_toilet,wb_area,balcony,mbr,mbr_toilet,br2",
+        "unit_name" : "A-407",
+        "unit_status" : "0"
+      }, {
+        "label" : "A408",
+        "room_name" : "living_dining,kitchen,utility,br1,c_toilet,wb_area,balcony,mbr,mbr_toilet,br2",
+        "unit_name" : "A-408",
+        "unit_status" : "0"
+      } ]
+    }, {
+      "floor_name" : "05",
+      "units" : [ null, {
+        "label" : "A501",
+        "room_name" : "living_dining,kitchen,utility,br1,c_toilet,wb_area,balcony,mbr,mbr_toilet,br2",
+        "unit_name" : "A-501",
+        "unit_status" : "0"
+      }, {
+        "label" : "A502",
+        "room_name" : "living_dining,kitchen,utility,br1,c_toilet,wb_area,balcony,mbr,mbr_toilet,br2",
+        "unit_name" : "A-502",
+        "unit_status" : "0"
+      }, {
+        "label" : "A503",
+        "room_name" : "living_dining,kitchen,utility,br1,c_toilet,wb_area,balcony,mbr,mbr_toilet,br2",
+        "unit_name" : "A-503",
+        "unit_status" : "0"
+      }, {
+        "label" : "A504",
+        "room_name" : "living_dining,kitchen,utility,br1,c_toilet,wb_area,balcony,mbr,mbr_toilet,br2",
+        "unit_name" : "A-504",
+        "unit_status" : "0"
+      }, {
+        "label" : "A505",
+        "room_name" : "living_dining,kitchen,utility,br1,c_toilet,wb_area,balcony,mbr,mbr_toilet,br2",
+        "unit_name" : "A-505",
+        "unit_status" : "0"
+      }, {
+        "label" : "A506",
+        "room_name" : "living_dining,kitchen,utility,br1,c_toilet,wb_area,balcony,mbr,mbr_toilet,br2",
+        "unit_name" : "A-506",
+        "unit_status" : "0"
+      }, {
+        "label" : "A507",
+        "room_name" : "living_dining,kitchen,utility,br1,c_toilet,wb_area,balcony,mbr,mbr_toilet,br2",
+        "unit_name" : "A-507",
+        "unit_status" : "0"
+      }, {
+        "label" : "A508",
+        "room_name" : "living_dining,kitchen,utility,br1,c_toilet,wb_area,balcony,mbr,mbr_toilet,br2",
+        "unit_name" : "A-508",
+        "unit_status" : "0"
+      } ]
+    }, {
+      "floor_name" : "06",
+      "units" : [ null, {
+        "label" : "A601",
+        "room_name" : "living_dining,kitchen,utility,br1,c_toilet,wb_area,balcony,mbr,mbr_toilet,br2",
+        "unit_name" : "A-601",
+        "unit_status" : "0"
+      }, {
+        "label" : "A602",
+        "room_name" : "living_dining,kitchen,utility,br1,c_toilet,wb_area,balcony,mbr,mbr_toilet,br2",
+        "unit_name" : "A-602",
+        "unit_status" : "0"
+      }, {
+        "label" : "A603",
+        "room_name" : "living_dining,kitchen,utility,br1,c_toilet,wb_area,balcony,mbr,mbr_toilet,br2",
+        "unit_name" : "A-603",
+        "unit_status" : "0"
+      }, {
+        "label" : "A604",
+        "room_name" : "living_dining,kitchen,utility,br1,c_toilet,wb_area,balcony,mbr,mbr_toilet,br2",
+        "unit_name" : "A-604",
+        "unit_status" : "0"
+      }, {
+        "label" : "A605",
+        "room_name" : "living_dining,kitchen,utility,br1,c_toilet,wb_area,balcony,mbr,mbr_toilet,br2",
+        "unit_name" : "A-605",
+        "unit_status" : "0"
+      }, {
+        "label" : "A606",
+        "room_name" : "living_dining,kitchen,utility,br1,c_toilet,wb_area,balcony,mbr,mbr_toilet,br2",
+        "unit_name" : "A-606",
+        "unit_status" : "0"
+      }, {
+        "label" : "A607",
+        "room_name" : "living_dining,kitchen,utility,br1,c_toilet,wb_area,balcony,mbr,mbr_toilet,br2",
+        "unit_name" : "A-607",
+        "unit_status" : "0"
+      }, {
+        "label" : "A608",
+        "room_name" : "living_dining,kitchen,utility,br1,c_toilet,wb_area,balcony,mbr,mbr_toilet,br2",
+        "unit_name" : "A-608",
+        "unit_status" : "0"
+      } ]
+    }, {
+      "floor_name" : "07",
+      "units" : [ null, {
+        "label" : "A701",
+        "room_name" : "living_dining,kitchen,utility,br1,c_toilet,wb_area,balcony,mbr,mbr_toilet,br2",
+        "unit_name" : "A-701",
+        "unit_status" : "0"
+      }, {
+        "label" : "A702",
+        "room_name" : "living_dining,kitchen,utility,br1,c_toilet,wb_area,balcony,mbr,mbr_toilet,br2",
+        "unit_name" : "A-702",
+        "unit_status" : "0"
+      }, {
+        "label" : "A703",
+        "room_name" : "living_dining,kitchen,utility,br1,c_toilet,wb_area,balcony,mbr,mbr_toilet,br2",
+        "unit_name" : "A-703",
+        "unit_status" : "0"
+      }, {
+        "label" : "A704",
+        "room_name" : "living_dining,kitchen,utility,br1,c_toilet,wb_area,balcony,mbr,mbr_toilet,br2",
+        "unit_name" : "A-704",
+        "unit_status" : "0"
+      }, {
+        "label" : "A705",
+        "room_name" : "living_dining,kitchen,utility,br1,c_toilet,wb_area,balcony,mbr,mbr_toilet,br2",
+        "unit_name" : "A-705",
+        "unit_status" : "0"
+      }, {
+        "label" : "A706",
+        "room_name" : "living_dining,kitchen,utility,br1,c_toilet,wb_area,balcony,mbr,mbr_toilet,br2",
+        "unit_name" : "A-706",
+        "unit_status" : "0"
+      }, {
+        "label" : "A707",
+        "room_name" : "living_dining,kitchen,utility,br1,c_toilet,wb_area,balcony,mbr,mbr_toilet,br2",
+        "unit_name" : "A-707",
+        "unit_status" : "0"
+      }, {
+        "label" : "A708",
+        "room_name" : "living_dining,kitchen,utility,br1,c_toilet,wb_area,balcony,mbr,mbr_toilet,br2",
+        "unit_name" : "A-708",
+        "unit_status" : "0"
+      } ]
+    }, {
+      "floor_name" : "08",
+      "units" : [ null, {
+        "label" : "A801",
+        "room_name" : "living_dining,kitchen,utility,br1,c_toilet,wb_area,balcony,mbr,mbr_toilet,br2",
+        "unit_name" : "A-801",
+        "unit_status" : "0"
+      }, {
+        "label" : "A802",
+        "room_name" : "living_dining,kitchen,utility,br1,c_toilet,wb_area,balcony,mbr,mbr_toilet,br2",
+        "unit_name" : "A-802",
+        "unit_status" : "0"
+      }, {
+        "label" : "A803",
+        "room_name" : "living_dining,kitchen,utility,br1,c_toilet,wb_area,balcony,mbr,mbr_toilet,br2",
+        "unit_name" : "A-803",
+        "unit_status" : "0"
+      }, {
+        "label" : "A804",
+        "room_name" : "living_dining,kitchen,utility,br1,c_toilet,wb_area,balcony,mbr,mbr_toilet,br2",
+        "unit_name" : "A-804",
+        "unit_status" : "0"
+      }, {
+        "label" : "A805",
+        "room_name" : "living_dining,kitchen,utility,br1,c_toilet,wb_area,balcony,mbr,mbr_toilet,br2",
+        "unit_name" : "A-805",
+        "unit_status" : "0"
+      }, {
+        "label" : "A806",
+        "room_name" : "living_dining,kitchen,utility,br1,c_toilet,wb_area,balcony,mbr,mbr_toilet,br2",
+        "unit_name" : "A-806",
+        "unit_status" : "0"
+      }, {
+        "label" : "A807",
+        "room_name" : "living_dining,kitchen,utility,br1,c_toilet,wb_area,balcony,mbr,mbr_toilet,br2",
+        "unit_name" : "A-807",
+        "unit_status" : "0"
+      }, {
+        "label" : "A808",
+        "room_name" : "living_dining,kitchen,utility,br1,c_toilet,wb_area,balcony,mbr,mbr_toilet,br2",
+        "unit_name" : "A-808",
+        "unit_status" : "0"
+      } ]
+    }, {
+      "floor_name" : "09",
+      "units" : [ null, {
+        "label" : "A901",
+        "room_name" : "living_dining,kitchen,utility,br1,c_toilet,wb_area,balcony,mbr,mbr_toilet,br2",
+        "unit_name" : "A-901",
+        "unit_status" : "0"
+      }, {
+        "label" : "A902",
+        "room_name" : "living_dining,kitchen,utility,br1,c_toilet,wb_area,balcony,mbr,mbr_toilet,br2",
+        "unit_name" : "A-902",
+        "unit_status" : "0"
+      }, {
+        "label" : "A903",
+        "room_name" : "living_dining,kitchen,utility,br1,c_toilet,wb_area,balcony,mbr,mbr_toilet,br2",
+        "unit_name" : "A-903",
+        "unit_status" : "0"
+      }, {
+        "label" : "A904",
+        "room_name" : "living_dining,kitchen,utility,br1,c_toilet,wb_area,balcony,mbr,mbr_toilet,br2",
+        "unit_name" : "A-904",
+        "unit_status" : "0"
+      }, {
+        "label" : "A905",
+        "room_name" : "living_dining,kitchen,utility,br1,c_toilet,wb_area,balcony,mbr,mbr_toilet,br2",
+        "unit_name" : "A-905",
+        "unit_status" : "0"
+      }, {
+        "label" : "A906",
+        "room_name" : "living_dining,kitchen,utility,br1,c_toilet,wb_area,balcony,mbr,mbr_toilet,br2",
+        "unit_name" : "A-906",
+        "unit_status" : "0"
+      }, {
+        "label" : "A907",
+        "room_name" : "living_dining,kitchen,utility,br1,c_toilet,wb_area,balcony,mbr,mbr_toilet,br2",
+        "unit_name" : "A-907",
+        "unit_status" : "0"
+      }, {
+        "label" : "A908",
+        "room_name" : "living_dining,kitchen,utility,br1,c_toilet,wb_area,balcony,mbr,mbr_toilet,br2",
+        "unit_name" : "A-908",
+        "unit_status" : "0"
+      } ]
+    }, {
+      "floor_name" : "10",
+      "units" : [ null, {
+        "label" : "A1001",
+        "room_name" : "living_dining,kitchen,utility,br1,c_toilet,wb_area,balcony,mbr,mbr_toilet,br2",
+        "unit_name" : "A-1001",
+        "unit_status" : "0"
+      }, {
+        "label" : "A1002",
+        "room_name" : "living_dining,kitchen,utility,br1,c_toilet,wb_area,balcony,mbr,mbr_toilet,br2",
+        "unit_name" : "A-1002",
+        "unit_status" : "0"
+      }, {
+        "label" : "A1003",
+        "room_name" : "living_dining,kitchen,utility,br1,c_toilet,wb_area,balcony,mbr,mbr_toilet,br2",
+        "unit_name" : "A-1003",
+        "unit_status" : "0"
+      }, {
+        "label" : "A1004",
+        "room_name" : "living_dining,kitchen,utility,br1,c_toilet,wb_area,balcony,mbr,mbr_toilet,br2",
+        "unit_name" : "A-1004",
+        "unit_status" : "0"
+      }, {
+        "label" : "A1005",
+        "room_name" : "living_dining,kitchen,utility,br1,c_toilet,wb_area,balcony,mbr,mbr_toilet,br2",
+        "unit_name" : "A-1005",
+        "unit_status" : "0"
+      }, {
+        "label" : "A1006",
+        "room_name" : "living_dining,kitchen,utility,br1,c_toilet,wb_area,balcony,mbr,mbr_toilet,br2",
+        "unit_name" : "A-1006",
+        "unit_status" : "0"
+      }, {
+        "label" : "A1007",
+        "room_name" : "living_dining,kitchen,utility,br1,c_toilet,wb_area,balcony,mbr,mbr_toilet,br2",
+        "unit_name" : "A-1007",
+        "unit_status" : "0"
+      }, {
+        "label" : "A1008",
+        "room_name" : "living_dining,kitchen,utility,br1,c_toilet,wb_area,balcony,mbr,mbr_toilet,br2",
+        "unit_name" : "A-1008",
+        "unit_status" : "0"
+      } ]
+    }, {
+      "floor_name" : "11",
+      "units" : [ null, {
+        "label" : "A1101",
+        "room_name" : "living_dining,kitchen,utility,br1,c_toilet,wb_area,balcony,mbr,mbr_toilet,br2",
+        "unit_name" : "A-1101",
+        "unit_status" : "2",
+        "updated_timestamp" : "1593181828330"
+      }, {
+        "label" : "A1102",
+        "room_name" : "living_dining,kitchen,utility,br1,c_toilet,wb_area,balcony,mbr,mbr_toilet,br2",
+        "unit_name" : "A-1102",
+        "unit_status" : "2",
+        "updated_timestamp" : "1592656700214"
+      }, {
+        "label" : "A1103",
+        "room_name" : "living_dining,kitchen,utility,br1,c_toilet,wb_area,balcony,mbr,mbr_toilet,br2",
+        "unit_name" : "A-1103",
+        "unit_status" : "0"
+      }, {
+        "label" : "A1104",
+        "room_name" : "living_dining,kitchen,utility,br1,c_toilet,wb_area,balcony,mbr,mbr_toilet,br2",
+        "unit_name" : "A-1104",
+        "unit_status" : "0"
+      }, {
+        "label" : "A1105",
+        "room_name" : "living_dining,kitchen,utility,br1,c_toilet,wb_area,balcony,mbr,mbr_toilet,br2",
+        "unit_name" : "A-1105",
+        "unit_status" : "0"
+      }, {
+        "label" : "A1106",
+        "room_name" : "living_dining,kitchen,utility,br1,c_toilet,wb_area,balcony,mbr,mbr_toilet,br2",
+        "unit_name" : "A-1106",
+        "unit_status" : "0"
+      }, {
+        "label" : "A1107",
+        "room_name" : "living_dining,kitchen,utility,br1,c_toilet,wb_area,balcony,mbr,mbr_toilet,br2",
+        "unit_name" : "A-1107",
+        "unit_status" : "0"
+      }, {
+        "label" : "A1108",
+        "room_name" : "living_dining,kitchen,utility,br1,c_toilet,wb_area,balcony,mbr,mbr_toilet,br2",
+        "unit_name" : "A-1108",
+        "unit_status" : "0"
+      } ]
+    }, {
+      "floor_name" : "12",
+      "units" : [ null, {
+        "label" : "A1201",
+        "room_name" : "living_dining,kitchen,utility,br1,c_toilet,wb_area,balcony,mbr,mbr_toilet,br2",
+        "unit_name" : "A-1201",
+        "unit_status" : "0"
+      }, {
+        "label" : "A1202",
+        "room_name" : "living_dining,kitchen,utility,br1,c_toilet,wb_area,balcony,mbr,mbr_toilet,br2",
+        "unit_name" : "A-1202",
+        "unit_status" : "0"
+      }, {
+        "label" : "A1203",
+        "room_name" : "living_dining,kitchen,utility,br1,c_toilet,wb_area,balcony,mbr,mbr_toilet,br2",
+        "unit_name" : "A-1203",
+        "unit_status" : "0"
+      }, {
+        "label" : "A1204",
+        "room_name" : "living_dining,kitchen,utility,br1,c_toilet,wb_area,balcony,mbr,mbr_toilet,br2",
+        "unit_name" : "A-1204",
+        "unit_status" : "2"
+      }, {
+        "label" : "A1205",
+        "room_name" : "living_dining,kitchen,utility,br1,c_toilet,wb_area,balcony,mbr,mbr_toilet,br2",
+        "unit_name" : "A-1205",
+        "unit_status" : "0"
+      }, {
+        "label" : "A1206",
+        "room_name" : "living_dining,kitchen,utility,br1,c_toilet,wb_area,balcony,mbr,mbr_toilet,br2",
+        "unit_name" : "A-1206",
+        "unit_status" : "0"
+      }, {
+        "label" : "A1207",
+        "room_name" : "living_dining,kitchen,utility,br1,c_toilet,wb_area,balcony,mbr,mbr_toilet,br2",
+        "unit_name" : "A-1207",
+        "unit_status" : "0"
+      }, {
+        "label" : "A1208",
+        "room_name" : "living_dining,kitchen,utility,br1,c_toilet,wb_area,balcony,mbr,mbr_toilet,br2",
+        "unit_name" : "A-1208",
+        "unit_status" : "0"
+      } ]
+    }, {
+      "floor_name" : "13",
+      "units" : [ null, {
+        "label" : "A1301",
+        "room_name" : "living_dining,kitchen,utility,br1,c_toilet,wb_area,balcony,mbr,mbr_toilet,br2",
+        "unit_name" : "A-1301",
+        "unit_status" : "0"
+      }, {
+        "label" : "A1302",
+        "room_name" : "living_dining,kitchen,utility,br1,c_toilet,wb_area,balcony,mbr,mbr_toilet,br2",
+        "unit_name" : "A-1302",
+        "unit_status" : "0"
+      }, {
+        "label" : "A1303",
+        "room_name" : "living_dining,kitchen,utility,br1,c_toilet,wb_area,balcony,mbr,mbr_toilet,br2",
+        "unit_name" : "A-1303",
+        "unit_status" : "0"
+      }, {
+        "label" : "A1304",
+        "room_name" : "living_dining,kitchen,utility,br1,c_toilet,wb_area,balcony,mbr,mbr_toilet,br2",
+        "unit_name" : "A-1304",
+        "unit_status" : "0"
+      }, {
+        "label" : "A1305",
+        "room_name" : "living_dining,kitchen,utility,br1,c_toilet,wb_area,balcony,mbr,mbr_toilet,br2",
+        "unit_name" : "A-1305",
+        "unit_status" : "0"
+      }, {
+        "label" : "A1306",
+        "room_name" : "living_dining,kitchen,utility,br1,c_toilet,wb_area,balcony,mbr,mbr_toilet,br2",
+        "unit_name" : "A-1306",
+        "unit_status" : "0"
+      }, {
+        "label" : "A1307",
+        "room_name" : "living_dining,kitchen,utility,br1,c_toilet,wb_area,balcony,mbr,mbr_toilet,br2",
+        "unit_name" : "A-1307",
+        "unit_status" : "0"
+      }, {
+        "label" : "A1308",
+        "room_name" : "living_dining,kitchen,utility,br1,c_toilet,wb_area,balcony,mbr,mbr_toilet,br2",
+        "unit_name" : "A-1308",
+        "unit_status" : "0"
+      } ]
+    }, {
+      "floor_name" : "14",
+      "units" : [ null, {
+        "label" : "A1401",
+        "room_name" : "living_dining,kitchen,utility,br1,c_toilet,wb_area,balcony,mbr,mbr_toilet,br2",
+        "unit_name" : "A-1401",
+        "unit_status" : "0"
+      }, {
+        "label" : "A1402",
+        "room_name" : "living_dining,kitchen,utility,br1,c_toilet,wb_area,balcony,mbr,mbr_toilet,br2",
+        "unit_name" : "A-1402",
+        "unit_status" : "0"
+      }, {
+        "label" : "A1403",
+        "room_name" : "living_dining,kitchen,utility,br1,c_toilet,wb_area,balcony,mbr,mbr_toilet,br2",
+        "unit_name" : "A-1403",
+        "unit_status" : "0"
+      }, {
+        "label" : "A1404",
+        "room_name" : "living_dining,kitchen,utility,br1,c_toilet,wb_area,balcony,mbr,mbr_toilet,br2",
+        "unit_name" : "A-1404",
+        "unit_status" : "0"
+      }, {
+        "label" : "A1405",
+        "room_name" : "living_dining,kitchen,utility,br1,c_toilet,wb_area,balcony,mbr,mbr_toilet,br2",
+        "unit_name" : "A-1405",
+        "unit_status" : "0"
+      }, {
+        "label" : "A1406",
+        "room_name" : "living_dining,kitchen,utility,br1,c_toilet,wb_area,balcony,mbr,mbr_toilet,br2",
+        "unit_name" : "A-1406",
+        "unit_status" : "0"
+      }, {
+        "label" : "A1407",
+        "room_name" : "living_dining,kitchen,utility,br1,c_toilet,wb_area,balcony,mbr,mbr_toilet,br2",
+        "unit_name" : "A-1407",
+        "unit_status" : "0"
+      }, {
+        "label" : "A1408",
+        "room_name" : "living_dining,kitchen,utility,br1,c_toilet,wb_area,balcony,mbr,mbr_toilet,br2",
+        "unit_name" : "A-1408",
+        "unit_status" : "0"
+      } ]
+    }, {
+      "floor_name" : "15",
+      "units" : [ null, {
+        "label" : "A1501",
+        "room_name" : "living_dining,kitchen,utility,br1,c_toilet,wb_area,balcony,mbr,mbr_toilet,br2",
+        "unit_name" : "A-1501",
+        "unit_status" : "0"
+      }, {
+        "label" : "A1502",
+        "room_name" : "living_dining,kitchen,utility,br1,c_toilet,wb_area,balcony,mbr,mbr_toilet,br2",
+        "unit_name" : "A-1502",
+        "unit_status" : "0"
+      }, {
+        "label" : "A1503",
+        "room_name" : "living_dining,kitchen,utility,br1,c_toilet,wb_area,balcony,mbr,mbr_toilet,br2",
+        "unit_name" : "A-1503",
+        "unit_status" : "0"
+      }, {
+        "label" : "A1504",
+        "room_name" : "living_dining,kitchen,utility,br1,c_toilet,wb_area,balcony,mbr,mbr_toilet,br2",
+        "unit_name" : "A-1504",
+        "unit_status" : "0"
+      }, {
+        "label" : "A1505",
+        "room_name" : "living_dining,kitchen,utility,br1,c_toilet,wb_area,balcony,mbr,mbr_toilet,br2",
+        "unit_name" : "A-1505",
+        "unit_status" : "0"
+      }, {
+        "label" : "A1506",
+        "room_name" : "living_dining,kitchen,utility,br1,c_toilet,wb_area,balcony,mbr,mbr_toilet,br2",
+        "unit_name" : "A-1506",
+        "unit_status" : "0"
+      }, {
+        "label" : "A1507",
+        "room_name" : "living_dining,kitchen,utility,br1,c_toilet,wb_area,balcony,mbr,mbr_toilet,br2",
+        "unit_name" : "A-1507",
+        "unit_status" : "0"
+      }, {
+        "label" : "A1508",
+        "room_name" : "living_dining,kitchen,utility,br1,c_toilet,wb_area,balcony,mbr,mbr_toilet,br2",
+        "unit_name" : "A-1508",
+        "unit_status" : "0"
+      } ]
+    }, {
+      "floor_name" : "16",
+      "units" : [ null, {
+        "label" : "A1601",
+        "room_name" : "living_dining,kitchen,utility,br1,c_toilet,wb_area,balcony,mbr,mbr_toilet,br2",
+        "unit_name" : "A-1601",
+        "unit_status" : "0"
+      }, {
+        "label" : "A1602",
+        "room_name" : "living_dining,kitchen,utility,br1,c_toilet,wb_area,balcony,mbr,mbr_toilet,br2",
+        "unit_name" : "A-1602",
+        "unit_status" : "0"
+      }, {
+        "label" : "A1603",
+        "room_name" : "living_dining,kitchen,utility,br1,c_toilet,wb_area,balcony,mbr,mbr_toilet,br2",
+        "unit_name" : "A-1603",
+        "unit_status" : "0"
+      }, {
+        "label" : "A1604",
+        "room_name" : "living_dining,kitchen,utility,br1,c_toilet,wb_area,balcony,mbr,mbr_toilet,br2",
+        "unit_name" : "A-1604",
+        "unit_status" : "0"
+      }, {
+        "label" : "A1605",
+        "room_name" : "living_dining,kitchen,utility,br1,c_toilet,wb_area,balcony,mbr,mbr_toilet,br2",
+        "unit_name" : "A-1605",
+        "unit_status" : "0"
+      }, {
+        "label" : "A1606",
+        "room_name" : "living_dining,kitchen,utility,br1,c_toilet,wb_area,balcony,mbr,mbr_toilet,br2",
+        "unit_name" : "A-1606",
+        "unit_status" : "0"
+      }, {
+        "label" : "A1607",
+        "room_name" : "living_dining,kitchen,utility,br1,c_toilet,wb_area,balcony,mbr,mbr_toilet,br2",
+        "unit_name" : "A-1607",
+        "unit_status" : "0"
+      }, {
+        "label" : "A1608",
+        "room_name" : "living_dining,kitchen,utility,br1,c_toilet,wb_area,balcony,mbr,mbr_toilet,br2",
+        "unit_name" : "A-1608",
+        "unit_status" : "0"
+      } ]
+    }, {
+      "floor_name" : "17",
+      "units" : [ null, {
+        "label" : "A1701",
+        "room_name" : "living_dining,kitchen,utility,br1,c_toilet,wb_area,balcony,mbr,mbr_toilet,br2",
+        "unit_name" : "A-1701",
+        "unit_status" : "0"
+      }, {
+        "label" : "A1702",
+        "room_name" : "living_dining,kitchen,utility,br1,c_toilet,wb_area,balcony,mbr,mbr_toilet,br2",
+        "unit_name" : "A-1702",
+        "unit_status" : "0"
+      }, {
+        "label" : "A1703",
+        "room_name" : "living_dining,kitchen,utility,br1,c_toilet,wb_area,balcony,mbr,mbr_toilet,br2",
+        "unit_name" : "A-1703",
+        "unit_status" : "0"
+      }, {
+        "label" : "A1704",
+        "room_name" : "living_dining,kitchen,utility,br1,c_toilet,wb_area,balcony,mbr,mbr_toilet,br2",
+        "unit_name" : "A-1704",
+        "unit_status" : "0"
+      }, {
+        "label" : "A1705",
+        "room_name" : "living_dining,kitchen,utility,br1,c_toilet,wb_area,balcony,mbr,mbr_toilet,br2",
+        "unit_name" : "A-1705",
+        "unit_status" : "0"
+      }, {
+        "label" : "A1706",
+        "room_name" : "living_dining,kitchen,utility,br1,c_toilet,wb_area,balcony,mbr,mbr_toilet,br2",
+        "unit_name" : "A-1706",
+        "unit_status" : "0"
+      }, {
+        "label" : "A1707",
+        "room_name" : "living_dining,kitchen,utility,br1,c_toilet,wb_area,balcony,mbr,mbr_toilet,br2",
+        "unit_name" : "A-1707",
+        "unit_status" : "0"
+      }, {
+        "label" : "A1708",
+        "room_name" : "living_dining,kitchen,utility,br1,c_toilet,wb_area,balcony,mbr,mbr_toilet,br2",
+        "unit_name" : "A-1708",
+        "unit_status" : "0"
+      } ]
+    }, {
+      "floor_name" : "18",
+      "units" : [ null, {
+        "label" : "A1801",
+        "room_name" : "living_dining,kitchen,utility,br1,c_toilet,wb_area,balcony,mbr,mbr_toilet,br2",
+        "unit_name" : "A-1801",
+        "unit_status" : "0"
+      }, {
+        "label" : "A1802",
+        "room_name" : "living_dining,kitchen,utility,br1,c_toilet,wb_area,balcony,mbr,mbr_toilet,br2",
+        "unit_name" : "A-1802",
+        "unit_status" : "0"
+      }, {
+        "label" : "A1803",
+        "room_name" : "living_dining,kitchen,utility,br1,c_toilet,wb_area,balcony,mbr,mbr_toilet,br2",
+        "unit_name" : "A-1803",
+        "unit_status" : "0"
+      }, {
+        "label" : "A1804",
+        "room_name" : "living_dining,kitchen,utility,br1,c_toilet,wb_area,balcony,mbr,mbr_toilet,br2",
+        "unit_name" : "A-1804",
+        "unit_status" : "0"
+      }, {
+        "label" : "A1805",
+        "room_name" : "living_dining,kitchen,utility,br1,c_toilet,wb_area,balcony,mbr,mbr_toilet,br2",
+        "unit_name" : "A-1805",
+        "unit_status" : "0"
+      }, {
+        "label" : "A1806",
+        "room_name" : "living_dining,kitchen,utility,br1,c_toilet,wb_area,balcony,mbr,mbr_toilet,br2",
+        "unit_name" : "A-1806",
+        "unit_status" : "0"
+      }, {
+        "label" : "A1807",
+        "room_name" : "living_dining,kitchen,utility,br1,c_toilet,wb_area,balcony,mbr,mbr_toilet,br2",
+        "unit_name" : "A-1807",
+        "unit_status" : "0"
+      }, {
+        "label" : "A1808",
+        "room_name" : "living_dining,kitchen,utility,br1,c_toilet,wb_area,balcony,mbr,mbr_toilet,br2",
+        "unit_name" : "A-1808",
+        "unit_status" : "0"
+      } ]
+    }, {
+      "floor_name" : "19",
+      "units" : [ null, {
+        "label" : "A1901",
+        "room_name" : "living_dining,kitchen,utility,br1,c_toilet,wb_area,balcony,mbr,mbr_toilet,br2",
+        "unit_name" : "A-1901",
+        "unit_status" : "0"
+      }, {
+        "label" : "A1902",
+        "room_name" : "living_dining,kitchen,utility,br1,c_toilet,wb_area,balcony,mbr,mbr_toilet,br2",
+        "unit_name" : "A-1902",
+        "unit_status" : "0"
+      }, {
+        "label" : "A1903",
+        "room_name" : "living_dining,kitchen,utility,br1,c_toilet,wb_area,balcony,mbr,mbr_toilet,br2",
+        "unit_name" : "A-1903",
+        "unit_status" : "0"
+      }, {
+        "label" : "A1904",
+        "room_name" : "living_dining,kitchen,utility,br1,c_toilet,wb_area,balcony,mbr,mbr_toilet,br2",
+        "unit_name" : "A-1904",
+        "unit_status" : "0"
+      }, {
+        "label" : "A1905",
+        "room_name" : "living_dining,kitchen,utility,br1,c_toilet,wb_area,balcony,mbr,mbr_toilet,br2",
+        "unit_name" : "A-1905",
+        "unit_status" : "0"
+      }, {
+        "label" : "A1906",
+        "room_name" : "living_dining,kitchen,utility,br1,c_toilet,wb_area,balcony,mbr,mbr_toilet,br2",
+        "unit_name" : "A-1906",
+        "unit_status" : "0"
+      }, {
+        "label" : "A1907",
+        "room_name" : "living_dining,kitchen,utility,br1,c_toilet,wb_area,balcony,mbr,mbr_toilet,br2",
+        "unit_name" : "A-1907",
+        "unit_status" : "0"
+      }, {
+        "label" : "A1908",
+        "room_name" : "living_dining,kitchen,utility,br1,c_toilet,wb_area,balcony,mbr,mbr_toilet,br2",
+        "unit_name" : "A-1908",
+        "unit_status" : "0"
+      } ]
+    } ]
+  }
+}
