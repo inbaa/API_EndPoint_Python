@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>API Endpoint</title>
+ <!-- Latest compiled and minified CSS -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+
+<!-- jQuery library -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+
+<!-- Latest compiled JavaScript -->
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+
+</head>
+<body>
+
+    <div class="jumbotron text-center">
+    <center><h1>Build Metrix</h1></center>
+    </div>
+<div class="container">
+    	<div class="panel-body">
+    <form action="/" method="post" class="form-group">
+        <div class="form-group">
+        <label for="location"><b>Location</b></label>
+         <input type="text" placeholder="Enter Location"  name="location" required class="form-control">
+        </div>
+        <div class="form-group">
+        <label for="projectname"><b>Project Name</b></label>
+         <input type="text" placeholder="Enter Project Name"  name="projectname" required class="form-control">
+        </div>
+        <div class="form-group">
+        <label for="tower"><b>Tower</b></label>
+         <input type="text" placeholder="Enter Tower"  name="tower" required class="form-control">
+        </div>
+         <div class="form-group">
+        <label for="floor"><b>Floor </b></label>
+         <input type="text" placeholder="Enter Floor "  pattern="[0-9]+" name="floor" required class="form-control">
+         </div>
+         <div class="form-group">
+        <label for="unit"><b>Unit Number</b></label>
+         <input type="text" placeholder="Enter Unit no."  pattern="[0-9]+" name="unit" required class="form-control">
+         </div>
+
+       <center> <button type="submit" name="fetch" class="btn btn-primary">Fetch</button></center>
+
+    </form>
+    {{data}}
+</div>
+</div>
+</body>
+</html>
