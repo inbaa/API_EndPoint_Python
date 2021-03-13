@@ -3,14 +3,14 @@ import json
 
 #Initialize Firebase
 firebaseConfig={
-    "apiKey": "AIzaSyBzmB5NCWo9q58OiPtz732Xva5JlAxl4L8",
-    "authDomain": "api-endpoint-edc0a.firebaseapp.com",
-    "databaseURL": "https://api-endpoint-edc0a-default-rtdb.firebaseio.com",
+    "apiKey": "AIzaSyBzmB5NCWo9q8OiPtz732X5JlAxl4L8",
+    "authDomain": "api-endpoint-edc0a.firebaapp.com",
+    "databaseURL": "https://api-endpoint-edc0-default-rtdb.firebaseio.com",
     "projectId": "api-endpoint-edc0a",
     "storageBucket": "api-endpoint-edc0a.appspot.com",
-    "messagingSenderId": "607112984808",
-    "appId": "1:607112984808:web:ce6a2045b8ed9b0c3cf15d",
-    "measurementId": "G-YBXCF6DDBV"
+    "messagingSenderId": "60711284808",
+    "appId": "1:607112984808:web:ce6a2045b8ed9c3cf15d",
+    "measurementId": "G-YBXCFDDBV"
     }
 
 firebase=pyrebase.initialize_app(firebaseConfig)
